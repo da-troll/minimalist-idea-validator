@@ -1,0 +1,23 @@
+{
+  "inspired_by": "slavingia/skills",
+  "project_name": "Minimalist Business Idea Validator",
+  "description": "Enter a startup idea and get a structured breakdown using the Minimalist Entrepreneur framework: who are your 1,000 true fans, what community to build in, what is the smallest viable product, and what revenue model to use. Clean card-based UI with shareable results via URL.",
+  "tech_stack": ["Vite", "React", "TypeScript", "Tailwind CSS"],
+  "build_date": "2026-03-26",
+  "build_time_hours": 1.5,
+  "status": "complete",
+  "features": [
+    "Idea input with example prompts for inspiration",
+    "Minimalist Entrepreneur framework analysis (true fans, community, MVP, revenue)",
+    "Verdict score ring (0-100) with Strong/Viable/Risky/Avoid labels",
+    "1,000 True Fans breakdown: profile, pain point, where to find, willingness to pay",
+    "Community strategy: platform recommendation, existing communities, build strategy",
+    "Smallest Viable Product: core solution, build-this-first features, skip-for-now list, tech stack",
+    "Revenue model: pricing strategy, path to $10K MRR, alternatives to explore",
+    "Shareable results via URL query parameter",
+    "Top risk + next step call-to-action",
+    "Keyboard shortcut (⌘+Enter) to submit"
+  ],
+  "live_url": "https://mvp.trollefsen.com/2026-03-26-skills/",
+  "github_url": ""
+}
