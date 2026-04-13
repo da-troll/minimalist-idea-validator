@@ -2,7 +2,12 @@
   "inspired_by": "slavingia/skills",
   "project_name": "Minimalist Business Idea Validator",
   "description": "Enter a startup idea and get a structured breakdown using the Minimalist Entrepreneur framework: who are your 1,000 true fans, what community to build in, what is the smallest viable product, and what revenue model to use. Clean card-based UI with shareable results via URL.",
-  "tech_stack": ["Vite", "React", "TypeScript", "Tailwind CSS"],
+  "tech_stack": [
+    "Vite",
+    "React",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
   "build_date": "2026-03-26",
   "build_time_hours": 1.5,
   "status": "complete",
@@ -19,5 +24,5 @@
     "Keyboard shortcut (⌘+Enter) to submit"
   ],
   "live_url": "https://mvp.trollefsen.com/2026-03-26-skills/",
-  "github_url": "https://github.com/sys-fairy-eve/nightly-mvp-2026-03-26-skills"
+  "github_url": "https://github.com/da-troll/minimalist-idea-validator"
 }
