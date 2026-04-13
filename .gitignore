@@ -2,3 +2,10 @@ node_modules/
 dist/
 *.local
 .DS_Store
+
+# Build output & environment variables
+out
+.env
+.env.*
+.env.local
+.env.*.local
